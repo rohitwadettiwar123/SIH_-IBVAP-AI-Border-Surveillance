@@ -582,7 +582,7 @@ It does **not** autonomously control weapons or perform autonomous physical acti
 
 # 👨‍💻 Developed By
 
-### BWU NEURAL NEXUS
+### Sbj_SparkX
 
 Built for **Smart India Hackathon 2026**.
 
